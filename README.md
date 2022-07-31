@@ -30,6 +30,10 @@ yarn add vue3-menus
 ```html
 <script src="https://unpkg.com/vue3-menus/dist/vue3-menus.umd.min.js">
 ```
+CDN 目前稳定使用的版本为1.0.16，暂不清楚更高版本做了什么破坏性变动
+```html
+<script src="https://unpkg.com/vue3-menus@1.0.16/dist/vue3-menus.min.js"></script>
+```
 
 ## 使用（Vite 情况下同样使用）
 
